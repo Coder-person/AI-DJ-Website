@@ -1,0 +1,54 @@
+body{
+    padding-left:50px;
+    padding-right:50px;
+}
+
+
+.heading{
+    color:white;
+    font-size:25px;
+}
+
+h3{
+    width:100%;
+    margin-top:0;
+}
+
+.note{
+    color:black;
+    font-size:15px;
+}
+
+.miniImg1{
+    width:150px;
+}
+
+.miniImg2{
+    width:150px;
+}
+
+#speed{
+    font-size:20px;
+    margin:15px;
+}
+
+#volume{
+    font-size:20px;
+    margin:15px;
+}
+.divSpeed{
+    float:left;
+}
+.divVolume{
+    float:right;
+}
+.play_button{
+    font-size:20px;
+    width:150px;
+}
+
+canvas{
+    border:5px solid green;
+    background-color:wheat;
+    border-radius:30px;
+}
